@@ -6,4 +6,5 @@ Fort de mon expérience dans le graphisme, je suis très friand de toutce qui to
 
 - 🔭 En ce moment je travaille sur mon projet d'apotheose en équipe de 4.
 
-- Pour ceux qui veulent me contacter c'est par ici --> [ceci est un lien](quimeneversça) lbertellin@gmail.com
+- Pour ceux qui veulent me contacter c'est par ici --> lbertellin@gmail.com
+ou par la : [mon profil linkedin](https://www.linkedin.com/in/lucas-bertellin/) 
