@@ -4,7 +4,7 @@ Après des études dans le graphismes et une (petite) carrière dans le commerce
 D'abord attiré par le monde de l'informatique puis par le développement de jeux vidéo, c'est tout naturellement que j'en suis venu à m'intéresser au développement web.
 Fort de mon expérience dans le graphisme, je suis très friand de tout ce qui touche au développement Front-end même si, je dois l'avouer, le développement Back-end reste très attrayant.
 
-Skill :
+## Skills :
 - 🐱 Wordpress
 - 🔥 HTML/CSS
 - ☀️ JS
@@ -12,6 +12,8 @@ Skill :
 - 💗 Sass
 - 🐬 SQL
 - 🐘 PHP
+
+## Infos complémentaires : 
 
 - 🔭 En ce moment je travaille sur mon projet d'apotheose en équipe de 4.
 
