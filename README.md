@@ -1,4 +1,4 @@
-### Hello all 👋
+# Hello all 👋
 
 Après des études dans le graphismes et une (petite) carrière dans le commerce, il est temps pour moi de me reconvertir dans un domaine qui me plaît depuis tout jeune : le développement.
 D'abord attiré par le monde de l'informatique puis par le développement de jeux vidéo, c'est tout naturellement que j'en suis venu à m'intéresser au développement web.
