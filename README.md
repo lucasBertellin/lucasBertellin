@@ -5,6 +5,7 @@ D'abord attiré par le monde de l'informatique puis par ledéveloppement de jeux
 Fort de mon expérience dans le graphisme, je suis très friand de toutce qui touche au développement Front-end même si
 
 - 🔭 En ce moment je travaille sur mon projet d'apotheose en équipe de 4.
+- En parallèle je travaille sur un projet perso qui me tiens a coeur : un jeu de société interactif
 
 - Pour ceux qui veulent me contacter c'est par ici --> lbertellin@gmail.com
 ou par la : [mon profil linkedin](https://www.linkedin.com/in/lucas-bertellin/) 
